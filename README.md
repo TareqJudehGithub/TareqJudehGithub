@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tareq Judeh
-- 👀 I’m interested in Data Science and eb Development using Python.
-- 🌱 I’m at this moment diving deep learning Data Science using Python, Postgresql, and MS Power BI. I'm also skilled at Full Stack development using technologies like (Flask/Django), (React.JS/Native), Bootstrap, CSS, and HTML.
-- 💞️ I’m looking to collaborate on projects related to my field of expertise.
+- 👀 I’m interested in Python & Web Development.
+- 🌱 I enjoy building beautiful responsive websites and applications using cutting-endge technologies like Django, Postgres/MySQL, Bootstrap, CSS, and HTML.
+- 💞️ I’m looking for fulltime jobs related to my field of expertise.
 - 📫 Please feel free to contact me at tareq.joudeh@gmail.com
 
 <!---
