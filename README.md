@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tareq Judeh
-- 👀 I’m interested in React, TS, ASP .NET Core fullstack Web Development.
-- 🌱 I enjoy building beautiful, responsive, and secured web applications and websites.
+- 👀 Familiar and interested in React, TS, ASP .NET Core fullstack Web Development.
+- 🌱 Enjoy building beautiful, responsive, and secured web applications and websites.
 - 💞️ I’m looking for full time jobs related to my field of expertise.
 - 📫 Please feel free to contact me at tareq.joudeh@gmail.com
 
